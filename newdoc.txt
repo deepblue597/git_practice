@@ -1,1 +1,2 @@
 this is a new doc that i want to se if it is on the new branch
+these are some changes that i will make to see if we have a conflict
